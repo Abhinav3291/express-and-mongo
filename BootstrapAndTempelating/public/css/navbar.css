@@ -1,0 +1,16 @@
+ul{
+    
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+    color: wheat;
+    background-color: brown;
+    height: 100px;
+}
+
+ul>li{
+
+
+    color:white;
+}
